@@ -1,2 +1,2 @@
 # OOP-course-work
-Hello World!
+Final project is in Ali_Baysoy_Project folder
