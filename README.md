@@ -1,2 +1,3 @@
 # OOP-course-work
-Hello World!
+Final version of code is in patch-1 branch.
+
